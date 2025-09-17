@@ -1,6 +1,6 @@
-# demo-project
+# petase-activity-gnn
 
-A brief description of the project. Explain what it does and who it's for.
+PETase Activity Prediction Using Knowledge Graphs and Graph Neural Networks
 
 [![License](https://img.shields.io/badge/license-MIT-blue.svg)](LICENSE)
 
