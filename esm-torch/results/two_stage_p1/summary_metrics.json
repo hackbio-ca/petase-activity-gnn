@@ -1,0 +1,9 @@
+{
+  "classification_accuracy": 0.8108108108108109,
+  "regression_r2": -0.6994090268609419,
+  "regression_mse": 4.390871524810791,
+  "total_sequences": 37,
+  "true_active_count": 21,
+  "pred_active_count": 22,
+  "regression_samples": 21
+}
