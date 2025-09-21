@@ -3,3 +3,16 @@ esm-torch/input_data/
 
 esm
 Miniconda3-latest-Linux-x86_64.shMiniconda3-latest-Linux-x86_64.sh
+
+denisR_Halo_assay_analysis/results/*
+
+# Ignore all 'outputs' subfolders under deblending_attempts and their contents
+denisR_Halo_assay_analysis/deblending_attempts/**/outputs/
+denisR_Halo_assay_analysis/deblending_attempts/**/outputs/**
+denisR_Halo_assay_analysis/.Rhistory
+denisR_Halo_assay_analysis/.Rproj.user
+denisR_Halo_assay_analysis/.RData
+denisR_Halo_assay_analysis/Halo_assay_analysis.Rproj
+denisR_Halo_assay_analysis/plate_data_subset.csv
+denisR_Halo_assay_analysis/plate_metadata_subset.csv
+denisR_Halo_assay_analysis/processed_plate_data.csv
