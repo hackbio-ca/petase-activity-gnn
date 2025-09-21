@@ -1,0 +1,15 @@
+nohup: ignoring input
+Using device: cpu
+Loading trained model from /home/ec2-user/petase-activity-gnn/esm-torch/results/two_stage_p2/enhanced_petase_model.pth
+Detected input dimension: 1280
+Model type: Baseline
+Loading ESM2 650M model (1280 dim)
+Loading Enhanced PETase Model
+Prediction model loaded successfully
+Starting live processing of input_data/controls.fa
+Starting live processing...
+
+Processing final chunk: 2 sequences
+Batch completed! Total processed in this batch: 2
+
+Completed! Total new sequences: 2, Skipped: 0
