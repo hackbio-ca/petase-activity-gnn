@@ -1,1 +1,2 @@
-hack_seqs-esm_embeddings/
+# Input data (embedding files, graphs, etc.)
+esm-torch/input_data/
