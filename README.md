@@ -1,6 +1,6 @@
 # petase-activity-gnn
 
-PETase Activity Prediction Using Knowledge Graphs and Graph Neural Networks
+🚀 Winner of the 2025 Donnelly Centre Innovation and Commercialization Award: PETase Activity Prediction Using Knowledge Graphs and Graph Neural Networks
 
 [![License](https://img.shields.io/badge/license-MIT-blue.svg)](LICENSE)
 
